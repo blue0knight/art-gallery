@@ -47,4 +47,4 @@ group :development do
 end
 
 gem 'puma'
-#gem 'pg'
+gem 'pg'
